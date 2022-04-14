@@ -2,7 +2,8 @@
 #Python Project
 #Receipt for Lovely Loveseats
 """
-In this project, we will be storing the names and prices of a furniture store’s catalog in variables. We will then process the total price and item list of customers, printing them to the output terminal.
+In this project, we will be storing the names and prices of a furniture store’s catalog in variables. 
+We will then process the total price and item list of customers, printing them to the output terminal.
 """
 lovely_loveseat_description = "Lovely Loveseat. Tufted polyester blend on wood. 32 inches high x 40 inches wide x 30 inches deep. Red or white."
 lovely_loveseat_price = 254.00
